@@ -1,0 +1,159 @@
+/*{outline: 1px solid rgba(255,0,0,4);}*/
+.container{
+	width: 704px;
+	
+	
+}
+header{
+	padding: 15px 0;
+	margin: 0;
+	color:;
+	background:#FCFFFF;
+	width: 704px;
+}
+#logo{
+	margin:auto;
+}
+
+body{
+	margin-top: 40px;
+	margin-right: 300px;
+	margin-left: 300px;
+	
+}
+.bb{
+	width: 704px;
+}
+
+.a{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-bottom: 50px;
+	margin-left: 50px;
+}
+.im{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-bottom: 50px;
+	margin-left: 0px;
+}
+.b{
+	position: relative;
+	left: 80px;
+	bottom: 30px;
+	color:white;
+	width: 130px;
+}
+.c{
+	display: block;
+	background-color: black;
+	width: 90px;
+	height: 5px;
+	margin-bottom: 30px;
+}
+
+#button{
+	
+	border-bottom: solid #333 1px;
+	border-top: solid #333 1px;
+	padding: 10px;
+
+}
+
+#button li {
+	display: inline;
+	font-family: Arial;
+	font-size: 20px;
+	text-decoration: none;
+	float: center;
+	color:black;
+	
+}
+#button li :hover{
+	background-color: #BAF5F0;
+	margin-top: -2px;
+	padding-bottom: 12px;
+}
+
+#mm{
+	border-right:solid #333 1px;
+	padding-right: 26px;
+	padding-left: 26px;
+	padding-top: 4px;
+	padding-bottom: 4px; 
+
+}
+.texto{
+	width: 400px;
+	text-align: center;
+	margin-left: 152px;
+	font-size: 20px;
+
+}
+.cc{
+	
+	background-color: #999D9D;
+	width: 90px;
+	height: 5px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	margin-left: 307px;
+}
+.contenedordos{
+border: 4px solid #858686;
+}
+
+
+.cir{
+	border-radius:100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 269px;
+}
+h1{
+text-align: center;
+}
+p{
+	text-align: center;
+	margin-left: 52px;
+	margin-right: 52px;
+	margin-top:15px;
+	margin-bottom: 15px;
+}
+h2{
+	margin-left: 15px;
+	margin-top: 30px;
+}
+.cua{
+	height: 20px;
+	border:none;
+	background: #939796;
+	margin-left: 35px;
+	margin-bottom: 20px;
+	padding: 15px;
+}
+.lar{
+	width: 500px;
+}
+.med{
+width: 300px;
+}
+.fin{
+width: 100px;
+}
+.pala{
+	color: white;
+}
+.ss{
+	width: 100%;
+}
+.q{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-bottom: 20px;
+	margin-left: 25px;
+	text-align: center;
+}
